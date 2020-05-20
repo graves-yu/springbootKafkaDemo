@@ -1,6 +1,7 @@
 # springbootKafkaDemo
 springbootkafkademo
-实例代码提供了两种序列化方式：
+
+提供了两种序列化方式：
 1.使用StringSerializer和StringDeserializer
 2.自定义Serializer和Deserialize
 
