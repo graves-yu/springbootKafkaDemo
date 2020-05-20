@@ -1,2 +1,7 @@
 # springbootKafkaDemo
 springbootkafkademo
+实例代码提供了两种序列化方式：
+1.使用StringSerializer和StringDeserializer
+2.自定义Serializer和Deserialize
+
+推荐直接使用StringSerializer和StringDeserializer，然后使用json作为标准的数据传输格式。站在巨人的肩膀上，事半功倍。
