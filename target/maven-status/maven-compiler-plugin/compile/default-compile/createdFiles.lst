@@ -1,0 +1,6 @@
+com\graves\springbootkafkademo\Serializable\UserDeserializer.class
+com\graves\springbootkafkademo\SpringbootkafkademoApplication.class
+com\graves\springbootkafkademo\rest\ProducerController.class
+com\graves\springbootkafkademo\model\User.class
+com\graves\springbootkafkademo\rest\ConsumerController.class
+com\graves\springbootkafkademo\Serializable\UserSerializable.class
